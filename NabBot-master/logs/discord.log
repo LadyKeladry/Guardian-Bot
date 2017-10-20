@@ -1,0 +1,135 @@
+2017-10-15 00:42:43,244:INFO:discord.client: on_ready has successfully been registered as an event
+2017-10-15 00:42:43,244:INFO:discord.client: on_command has successfully been registered as an event
+2017-10-15 00:42:43,244:INFO:discord.client: on_command_error has successfully been registered as an event
+2017-10-15 00:42:43,244:INFO:discord.client: on_message has successfully been registered as an event
+2017-10-15 00:42:43,244:INFO:discord.client: on_server_join has successfully been registered as an event
+2017-10-15 00:42:43,244:INFO:discord.client: on_member_join has successfully been registered as an event
+2017-10-15 00:42:43,244:INFO:discord.client: on_member_remove has successfully been registered as an event
+2017-10-15 00:42:43,244:INFO:discord.client: on_member_ban has successfully been registered as an event
+2017-10-15 00:42:43,244:INFO:discord.client: on_member_unban has successfully been registered as an event
+2017-10-15 00:42:43,244:INFO:discord.client: on_message_delete has successfully been registered as an event
+2017-10-15 00:42:43,244:INFO:discord.client: on_message_edit has successfully been registered as an event
+2017-10-15 00:42:43,244:INFO:discord.client: on_member_update has successfully been registered as an event
+2017-10-15 00:42:43,244:INFO:discord.client: on_server_update has successfully been registered as an event
+2017-10-15 00:49:28,106:INFO:discord.client: on_ready has successfully been registered as an event
+2017-10-15 00:49:28,107:INFO:discord.client: on_command has successfully been registered as an event
+2017-10-15 00:49:28,107:INFO:discord.client: on_command_error has successfully been registered as an event
+2017-10-15 00:49:28,107:INFO:discord.client: on_message has successfully been registered as an event
+2017-10-15 00:49:28,107:INFO:discord.client: on_server_join has successfully been registered as an event
+2017-10-15 00:49:28,107:INFO:discord.client: on_member_join has successfully been registered as an event
+2017-10-15 00:49:28,107:INFO:discord.client: on_member_remove has successfully been registered as an event
+2017-10-15 00:49:28,107:INFO:discord.client: on_member_ban has successfully been registered as an event
+2017-10-15 00:49:28,107:INFO:discord.client: on_member_unban has successfully been registered as an event
+2017-10-15 00:49:28,107:INFO:discord.client: on_message_delete has successfully been registered as an event
+2017-10-15 00:49:28,107:INFO:discord.client: on_message_edit has successfully been registered as an event
+2017-10-15 00:49:28,107:INFO:discord.client: on_member_update has successfully been registered as an event
+2017-10-15 00:49:28,107:INFO:discord.client: on_server_update has successfully been registered as an event
+2017-10-15 00:49:28,112:INFO:discord.client: logging in using static token
+2017-10-15 00:49:28,812:INFO:discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+2017-10-15 00:49:28,812:INFO:discord.gateway: sent the identify payload to create the websocket
+2017-10-15 00:49:31,138:INFO:discord.client: on_ready has successfully been registered as an event
+2017-10-15 00:49:31,138:INFO:discord.client: on_command has successfully been registered as an event
+2017-10-15 00:49:31,138:INFO:discord.client: on_command_error has successfully been registered as an event
+2017-10-15 00:49:31,138:INFO:discord.client: on_message has successfully been registered as an event
+2017-10-15 00:49:31,138:INFO:discord.client: on_server_join has successfully been registered as an event
+2017-10-15 00:49:31,138:INFO:discord.client: on_member_join has successfully been registered as an event
+2017-10-15 00:49:31,138:INFO:discord.client: on_member_remove has successfully been registered as an event
+2017-10-15 00:49:31,154:INFO:discord.client: on_member_ban has successfully been registered as an event
+2017-10-15 00:49:31,154:INFO:discord.client: on_member_unban has successfully been registered as an event
+2017-10-15 00:49:31,154:INFO:discord.client: on_message_delete has successfully been registered as an event
+2017-10-15 00:49:31,154:INFO:discord.client: on_message_edit has successfully been registered as an event
+2017-10-15 00:49:31,154:INFO:discord.client: on_member_update has successfully been registered as an event
+2017-10-15 00:49:31,154:INFO:discord.client: on_server_update has successfully been registered as an event
+2017-10-15 00:50:08,933:INFO:discord.client: on_ready has successfully been registered as an event
+2017-10-15 00:50:08,949:INFO:discord.client: on_command has successfully been registered as an event
+2017-10-15 00:50:08,949:INFO:discord.client: on_command_error has successfully been registered as an event
+2017-10-15 00:50:08,949:INFO:discord.client: on_message has successfully been registered as an event
+2017-10-15 00:50:08,949:INFO:discord.client: on_server_join has successfully been registered as an event
+2017-10-15 00:50:08,949:INFO:discord.client: on_member_join has successfully been registered as an event
+2017-10-15 00:50:08,949:INFO:discord.client: on_member_remove has successfully been registered as an event
+2017-10-15 00:50:08,949:INFO:discord.client: on_member_ban has successfully been registered as an event
+2017-10-15 00:50:08,949:INFO:discord.client: on_member_unban has successfully been registered as an event
+2017-10-15 00:50:08,949:INFO:discord.client: on_message_delete has successfully been registered as an event
+2017-10-15 00:50:08,949:INFO:discord.client: on_message_edit has successfully been registered as an event
+2017-10-15 00:50:08,949:INFO:discord.client: on_member_update has successfully been registered as an event
+2017-10-15 00:50:08,949:INFO:discord.client: on_server_update has successfully been registered as an event
+2017-10-15 00:50:08,949:INFO:discord.client: logging in using static token
+2017-10-15 00:50:09,606:INFO:discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+2017-10-15 00:50:09,606:INFO:discord.gateway: sent the identify payload to create the websocket
+2017-10-15 00:50:11,817:INFO:discord.client: on_ready has successfully been registered as an event
+2017-10-15 00:50:11,817:INFO:discord.client: on_command has successfully been registered as an event
+2017-10-15 00:50:11,817:INFO:discord.client: on_command_error has successfully been registered as an event
+2017-10-15 00:50:11,817:INFO:discord.client: on_message has successfully been registered as an event
+2017-10-15 00:50:11,817:INFO:discord.client: on_server_join has successfully been registered as an event
+2017-10-15 00:50:11,817:INFO:discord.client: on_member_join has successfully been registered as an event
+2017-10-15 00:50:11,817:INFO:discord.client: on_member_remove has successfully been registered as an event
+2017-10-15 00:50:11,817:INFO:discord.client: on_member_ban has successfully been registered as an event
+2017-10-15 00:50:11,817:INFO:discord.client: on_member_unban has successfully been registered as an event
+2017-10-15 00:50:11,817:INFO:discord.client: on_message_delete has successfully been registered as an event
+2017-10-15 00:50:11,817:INFO:discord.client: on_message_edit has successfully been registered as an event
+2017-10-15 00:50:11,817:INFO:discord.client: on_member_update has successfully been registered as an event
+2017-10-15 00:50:11,817:INFO:discord.client: on_server_update has successfully been registered as an event
+2017-10-15 00:59:03,781:INFO:discord.client: on_ready has successfully been registered as an event
+2017-10-15 00:59:03,781:INFO:discord.client: on_command has successfully been registered as an event
+2017-10-15 00:59:03,781:INFO:discord.client: on_command_error has successfully been registered as an event
+2017-10-15 00:59:03,781:INFO:discord.client: on_message has successfully been registered as an event
+2017-10-15 00:59:03,781:INFO:discord.client: on_server_join has successfully been registered as an event
+2017-10-15 00:59:03,781:INFO:discord.client: on_member_join has successfully been registered as an event
+2017-10-15 00:59:03,781:INFO:discord.client: on_member_remove has successfully been registered as an event
+2017-10-15 00:59:03,781:INFO:discord.client: on_member_ban has successfully been registered as an event
+2017-10-15 00:59:03,781:INFO:discord.client: on_member_unban has successfully been registered as an event
+2017-10-15 00:59:03,781:INFO:discord.client: on_message_delete has successfully been registered as an event
+2017-10-15 00:59:03,781:INFO:discord.client: on_message_edit has successfully been registered as an event
+2017-10-15 00:59:03,781:INFO:discord.client: on_member_update has successfully been registered as an event
+2017-10-15 00:59:03,781:INFO:discord.client: on_server_update has successfully been registered as an event
+2017-10-15 00:59:03,781:INFO:discord.client: logging in using static token
+2017-10-15 00:59:04,451:INFO:discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+2017-10-15 00:59:04,451:INFO:discord.gateway: sent the identify payload to create the websocket
+2017-10-15 00:59:06,724:INFO:discord.client: on_ready has successfully been registered as an event
+2017-10-15 00:59:06,724:INFO:discord.client: on_command has successfully been registered as an event
+2017-10-15 00:59:06,724:INFO:discord.client: on_command_error has successfully been registered as an event
+2017-10-15 00:59:06,724:INFO:discord.client: on_message has successfully been registered as an event
+2017-10-15 00:59:06,724:INFO:discord.client: on_server_join has successfully been registered as an event
+2017-10-15 00:59:06,724:INFO:discord.client: on_member_join has successfully been registered as an event
+2017-10-15 00:59:06,724:INFO:discord.client: on_member_remove has successfully been registered as an event
+2017-10-15 00:59:06,724:INFO:discord.client: on_member_ban has successfully been registered as an event
+2017-10-15 00:59:06,724:INFO:discord.client: on_member_unban has successfully been registered as an event
+2017-10-15 00:59:06,724:INFO:discord.client: on_message_delete has successfully been registered as an event
+2017-10-15 00:59:06,724:INFO:discord.client: on_message_edit has successfully been registered as an event
+2017-10-15 00:59:06,724:INFO:discord.client: on_member_update has successfully been registered as an event
+2017-10-15 00:59:06,724:INFO:discord.client: on_server_update has successfully been registered as an event
+2017-10-16 13:05:36,871:INFO:discord.gateway: Websocket closed with 1001 (), attempting a reconnect.
+2017-10-16 13:05:36,872:INFO:discord.client: Got ResumeWebSocket
+2017-10-16 13:05:37,264:INFO:discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+2017-10-16 13:05:37,266:INFO:discord.gateway: sent the resume payload to create the websocket
+2017-10-16 14:36:22,473:INFO:discord.gateway: Websocket closed with 1001 (), attempting a reconnect.
+2017-10-16 14:36:22,474:INFO:discord.client: Got ResumeWebSocket
+2017-10-16 14:36:22,841:INFO:discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+2017-10-16 14:36:22,842:INFO:discord.gateway: sent the resume payload to create the websocket
+2017-10-18 13:21:59,571:INFO:discord.gateway: Unhandled event PRESENCES_REPLACE
+2017-10-18 13:28:33,464:INFO:discord.gateway: Unhandled event PRESENCES_REPLACE
+2017-10-18 17:29:17,654:INFO:discord.gateway: Websocket closed with 1001 (), attempting a reconnect.
+2017-10-18 17:29:17,654:INFO:discord.client: Got ResumeWebSocket
+2017-10-18 17:29:18,000:INFO:discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+2017-10-18 17:29:18,000:INFO:discord.gateway: sent the resume payload to create the websocket
+2017-10-18 19:18:37,817:INFO:discord.gateway: Websocket closed with 1001 (), attempting a reconnect.
+2017-10-18 19:18:37,818:INFO:discord.client: Got ResumeWebSocket
+2017-10-18 19:18:38,161:INFO:discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+2017-10-18 19:18:38,163:INFO:discord.gateway: sent the resume payload to create the websocket
+2017-10-18 20:00:59,235:INFO:discord.gateway: Websocket closed with 1001 (CloudFlare WebSocket proxy restarting), attempting a reconnect.
+2017-10-18 20:00:59,235:INFO:discord.client: Got ResumeWebSocket
+2017-10-18 20:00:59,549:INFO:discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+2017-10-18 20:00:59,550:INFO:discord.gateway: sent the resume payload to create the websocket
+2017-10-19 01:06:58,979:INFO:discord.gateway: Websocket closed with 1001 (), attempting a reconnect.
+2017-10-19 01:06:58,979:INFO:discord.client: Got ResumeWebSocket
+2017-10-19 01:07:20,344:INFO:discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+2017-10-19 01:07:20,345:INFO:discord.gateway: sent the resume payload to create the websocket
+2017-10-19 13:38:27,170:INFO:discord.gateway: Websocket closed with 1006 (), attempting a reconnect.
+2017-10-19 13:38:27,170:INFO:discord.client: Got ResumeWebSocket
+2017-10-19 13:38:27,526:INFO:discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+2017-10-19 13:38:27,526:INFO:discord.gateway: sent the resume payload to create the websocket
+2017-10-19 17:07:07,488:INFO:discord.gateway: Websocket closed with 1006 (), attempting a reconnect.
+2017-10-19 17:07:07,488:INFO:discord.client: Got ResumeWebSocket
+2017-10-19 17:07:07,903:INFO:discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+2017-10-19 17:07:07,903:INFO:discord.gateway: sent the resume payload to create the websocket
+2017-10-19 21:00:02,876:INFO:discord.gateway: Unhandled event CHANNEL_PINS_UPDATE

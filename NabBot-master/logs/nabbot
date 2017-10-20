@@ -1,0 +1,114 @@
+2017-10-20 00:55:42,833:INFO: Announcing level up: Falazure (127)
+2017-10-20 01:10:31,460:INFO: Announcing level up: Potato Monster (89)
+2017-10-20 01:22:27,954:ERROR: get_highscores: Couldn't fetch Honera, loyalty, page 12, network error.
+2017-10-20 01:22:37,154:ERROR: getPlayer: Couldn't fetch Potato Monster, network error.
+2017-10-20 01:22:37,154:WARNING: check_death: couldn't fetch Potato Monster
+2017-10-20 01:22:44,842:ERROR: getServerOnline: Couldn't fetch Honera, network error.
+2017-10-20 01:26:00,235:ERROR: get_highscores: Couldn't fetch Honera, achievements, page 1, network error.
+2017-10-20 01:26:19,205:ERROR: getPlayer: Couldn't fetch Tayos Alys, network error.
+2017-10-20 01:26:19,205:WARNING: check_death: couldn't fetch Tayos Alys
+2017-10-20 01:26:44,543:ERROR: getServerOnline: Couldn't fetch Honera, network error.
+2017-10-20 01:29:32,324:ERROR: get_highscores: Couldn't fetch Honera, achievements, page 2, network error.
+2017-10-20 01:30:01,295:ERROR: getPlayer: Couldn't fetch Falazure, network error.
+2017-10-20 01:30:01,311:WARNING: check_death: couldn't fetch Falazure
+2017-10-20 01:30:44,115:ERROR: getServerOnline: Couldn't fetch Honera, network error.
+2017-10-20 01:33:04,372:ERROR: get_highscores: Couldn't fetch Honera, achievements, page 3, network error.
+2017-10-20 01:33:43,367:ERROR: getPlayer: Couldn't fetch Gucci Bow, network error.
+2017-10-20 01:33:43,367:WARNING: check_death: couldn't fetch Gucci Bow
+2017-10-20 01:34:43,881:ERROR: getServerOnline: Couldn't fetch Honera, network error.
+2017-10-20 01:36:36,433:ERROR: get_highscores: Couldn't fetch Honera, achievements, page 4, network error.
+2017-10-20 01:37:25,585:ERROR: getPlayer: Couldn't fetch Maxy Arthes, network error.
+2017-10-20 01:37:25,585:WARNING: check_death: couldn't fetch Maxy Arthes
+2017-10-20 01:38:43,543:ERROR: getServerOnline: Couldn't fetch Honera, network error.
+2017-10-20 01:40:08,461:ERROR: get_highscores: Couldn't fetch Honera, achievements, page 5, network error.
+2017-10-20 01:41:07,663:ERROR: getPlayer: Couldn't fetch Son of Bofuk, network error.
+2017-10-20 01:41:07,663:WARNING: check_death: couldn't fetch Son of Bofuk
+2017-10-20 01:42:43,313:ERROR: getServerOnline: Couldn't fetch Honera, network error.
+2017-10-20 01:43:40,606:ERROR: get_highscores: Couldn't fetch Honera, achievements, page 6, network error.
+2017-10-20 01:44:49,814:ERROR: getPlayer: Couldn't fetch Potato Monster, network error.
+2017-10-20 01:44:49,814:WARNING: check_death: couldn't fetch Potato Monster
+2017-10-20 01:46:42,901:ERROR: getServerOnline: Couldn't fetch Honera, network error.
+2017-10-20 01:47:12,756:ERROR: get_highscores: Couldn't fetch Honera, achievements, page 7, network error.
+2017-10-20 01:48:31,853:ERROR: getPlayer: Couldn't fetch Tayos Alys, network error.
+2017-10-20 01:48:31,853:WARNING: check_death: couldn't fetch Tayos Alys
+2017-10-20 01:50:42,836:ERROR: getServerOnline: Couldn't fetch Honera, network error.
+2017-10-20 01:50:44,838:ERROR: get_highscores: Couldn't fetch Honera, achievements, page 8, network error.
+2017-10-20 01:52:13,939:ERROR: getPlayer: Couldn't fetch Falazure, network error.
+2017-10-20 01:52:13,939:WARNING: check_death: couldn't fetch Falazure
+2017-10-20 01:54:13,914:ERROR: get_highscores: Couldn't fetch Honera, achievements, page 9, network error.
+2017-10-20 01:54:40,570:ERROR: getServerOnline: Couldn't fetch Honera, network error.
+2017-10-20 01:55:56,048:ERROR: getPlayer: Couldn't fetch Gucci Bow, network error.
+2017-10-20 01:55:56,048:WARNING: check_death: couldn't fetch Gucci Bow
+2017-10-20 01:57:45,953:ERROR: get_highscores: Couldn't fetch Honera, achievements, page 10, network error.
+2017-10-20 01:58:40,265:ERROR: getServerOnline: Couldn't fetch Honera, network error.
+2017-10-20 01:59:38,120:ERROR: getPlayer: Couldn't fetch Maxy Arthes, network error.
+2017-10-20 01:59:38,120:WARNING: check_death: couldn't fetch Maxy Arthes
+2017-10-20 02:01:18,160:ERROR: get_highscores: Couldn't fetch Honera, achievements, page 11, network error.
+2017-10-20 02:02:41,476:ERROR: getServerOnline: Couldn't fetch Honera, network error.
+2017-10-20 02:03:22,717:ERROR: getPlayer: Couldn't fetch Son of Bofuk, network error.
+2017-10-20 02:03:22,717:WARNING: check_death: couldn't fetch Son of Bofuk
+2017-10-20 02:04:50,237:ERROR: get_highscores: Couldn't fetch Honera, achievements, page 12, network error.
+2017-10-20 02:06:27,390:ERROR: getServerOnline: Couldn't fetch Honera, network error.
+2017-10-20 02:06:57,082:ERROR: getPlayer: Couldn't fetch Potato Monster, network error.
+2017-10-20 02:06:57,082:WARNING: check_death: couldn't fetch Potato Monster
+2017-10-20 02:08:32,362:ERROR: get_highscores: Couldn't fetch Honera, sword, page 1, network error.
+2017-10-20 02:10:27,048:ERROR: getServerOnline: Couldn't fetch Honera, network error.
+2017-10-20 02:10:39,157:ERROR: getPlayer: Couldn't fetch Tayos Alys, network error.
+2017-10-20 02:10:39,157:WARNING: check_death: couldn't fetch Tayos Alys
+2017-10-20 02:11:53,740:ERROR: get_highscores: Couldn't fetch Honera, sword, page 2, network error.
+2017-10-20 02:14:21,233:ERROR: getPlayer: Couldn't fetch Falazure, network error.
+2017-10-20 02:14:21,233:WARNING: check_death: couldn't fetch Falazure
+2017-10-20 02:14:26,625:ERROR: getServerOnline: Couldn't fetch Honera, network error.
+2017-10-20 02:15:25,840:ERROR: get_highscores: Couldn't fetch Honera, sword, page 3, network error.
+2017-10-20 02:18:03,338:ERROR: getPlayer: Couldn't fetch Gucci Bow, network error.
+2017-10-20 02:18:03,338:WARNING: check_death: couldn't fetch Gucci Bow
+2017-10-20 02:18:26,148:ERROR: getServerOnline: Couldn't fetch Honera, network error.
+2017-10-20 02:18:57,960:ERROR: get_highscores: Couldn't fetch Honera, sword, page 4, network error.
+2017-10-20 02:21:45,464:ERROR: getPlayer: Couldn't fetch Maxy Arthes, network error.
+2017-10-20 02:21:45,464:WARNING: check_death: couldn't fetch Maxy Arthes
+2017-10-20 02:22:25,852:ERROR: getServerOnline: Couldn't fetch Honera, network error.
+2017-10-20 02:22:29,992:ERROR: get_highscores: Couldn't fetch Honera, sword, page 5, network error.
+2017-10-20 02:25:27,514:ERROR: getPlayer: Couldn't fetch Son of Bofuk, network error.
+2017-10-20 02:25:27,514:WARNING: check_death: couldn't fetch Son of Bofuk
+2017-10-20 02:26:02,137:ERROR: get_highscores: Couldn't fetch Honera, sword, page 6, network error.
+2017-10-20 02:26:25,522:ERROR: getServerOnline: Couldn't fetch Honera, network error.
+2017-10-20 02:29:09,603:ERROR: getPlayer: Couldn't fetch Potato Monster, network error.
+2017-10-20 02:29:09,603:WARNING: check_death: couldn't fetch Potato Monster
+2017-10-20 02:29:34,269:ERROR: get_highscores: Couldn't fetch Honera, sword, page 7, network error.
+2017-10-20 02:30:25,116:ERROR: getServerOnline: Couldn't fetch Honera, network error.
+2017-10-20 02:32:51,838:ERROR: getPlayer: Couldn't fetch Tayos Alys, network error.
+2017-10-20 02:32:51,838:WARNING: check_death: couldn't fetch Tayos Alys
+2017-10-20 02:33:06,367:ERROR: get_highscores: Couldn't fetch Honera, sword, page 8, network error.
+2017-10-20 02:34:24,671:ERROR: getServerOnline: Couldn't fetch Honera, network error.
+2017-10-20 02:36:34,012:ERROR: getPlayer: Couldn't fetch Falazure, network error.
+2017-10-20 02:36:34,012:WARNING: check_death: couldn't fetch Falazure
+2017-10-20 02:36:38,403:ERROR: get_highscores: Couldn't fetch Honera, sword, page 9, network error.
+2017-10-20 02:38:24,438:ERROR: getServerOnline: Couldn't fetch Honera, network error.
+2017-10-20 02:40:10,424:ERROR: get_highscores: Couldn't fetch Honera, sword, page 10, network error.
+2017-10-20 02:40:15,078:ERROR: getPlayer: Couldn't fetch Gucci Bow, network error.
+2017-10-20 02:40:15,078:WARNING: check_death: couldn't fetch Gucci Bow
+2017-10-20 02:42:22,383:ERROR: getServerOnline: Couldn't fetch Honera, network error.
+2017-10-20 02:43:42,510:ERROR: get_highscores: Couldn't fetch Honera, sword, page 11, network error.
+2017-10-20 02:43:57,205:ERROR: getPlayer: Couldn't fetch Maxy Arthes, network error.
+2017-10-20 02:43:57,205:WARNING: check_death: couldn't fetch Maxy Arthes
+2017-10-20 02:46:22,030:ERROR: getServerOnline: Couldn't fetch Honera, network error.
+2017-10-20 02:47:14,536:ERROR: get_highscores: Couldn't fetch Honera, sword, page 12, network error.
+2017-10-20 02:47:39,269:ERROR: getPlayer: Couldn't fetch Son of Bofuk, network error.
+2017-10-20 02:47:39,269:WARNING: check_death: couldn't fetch Son of Bofuk
+2017-10-20 02:50:21,627:ERROR: getServerOnline: Couldn't fetch Honera, network error.
+2017-10-20 02:52:01,094:INFO: Announcing level up: Potato Monster (90)
+2017-10-20 02:52:01,612:INFO: Announcing level up: Son of Bofuk (165)
+2017-10-20 03:06:12,792:ERROR: getPlayer: Couldn't fetch Sterling Mallory Archer, network error.
+2017-10-20 03:06:12,792:WARNING: check_death: couldn't fetch Sterling Mallory Archer
+2017-10-20 03:06:15,293:ERROR: get_highscores: Couldn't fetch Honera, sword, page 12, network error.
+2017-10-20 03:06:27,772:ERROR: getServerOnline: Couldn't fetch Honera, network error.
+2017-10-20 03:40:31,032:INFO: Announcing level up: Leerroyy Jenkins (84)
+2017-10-20 04:05:45,295:INFO: Announcing level up: Leerroyy Jenkins (85)
+2017-10-20 04:40:49,945:INFO: Announcing level up: Leerroyy Jenkins (86)
+2017-10-20 04:50:42,868:INFO: Announcing death: Zenj(321) | energy
+2017-10-20 05:05:26,005:INFO: Announcing death: Falazure(127) | a solid frozen horror
+2017-10-20 05:24:53,516:INFO: Announcing death: Zenj(321) | a hellhound
+2017-10-20 05:41:48,975:INFO: Announcing death: Gucci Pucci(91) | an ancient scarab
+2017-10-20 09:12:01,972:INFO: Announcing death: Boom Shaakalaka(108) | a mooh'tah warrior
+2017-10-20 10:20:45,000:INFO: Announcing level up: Falazure (128)
+2017-10-20 10:40:54,674:INFO: Announcing level up: Palidan of the Flame of Anur (97)
