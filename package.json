@@ -2,9 +2,9 @@
   "name": "Test",
   "description": "Test",
   "version": "0.0.0",
-  "main": "nabbot.js",
+  "main": "nabbot.py",
   "scripts": {
-    "start": "node nabbot.js"
+    "start": "node nabbot.py"
   },
   "dependencies": {
     "discord.js": "11.1.0",
