@@ -1,1 +1,1 @@
-worker: node nabbot.js
+worker: node nabbot.py
